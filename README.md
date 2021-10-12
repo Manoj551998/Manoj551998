@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developent
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me manojprabhu4u@gmail.com
+- 📫 How to reach me https://resume-web-97d16.web.app
 
 <!---
 Manoj551998/Manoj551998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
