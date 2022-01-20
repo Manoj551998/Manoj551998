@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManojPrabhu
 - 👀 I’m interested in Software Developent
-- 🌱 I’m currently latest Technology
+- 🌱 I’m currently learning latest Technology
 - 💞️ I’m a Software Developer at Zoho Corporation
 - 📫 How to reach me https://resume-web-97d16.web.app
 
